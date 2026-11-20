@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/PersonalAI.Web/">
+    <Project Path="src/PersonalAI.Web/PersonalAI.csproj" />
+  </Folder>
+</Solution>
