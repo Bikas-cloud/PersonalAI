@@ -1,8 +1,8 @@
-\# Code of Conduct
+# Code of Conduct
 
 
 
-\## Our Commitment
+## Our Commitment
 
 
 
@@ -18,7 +18,7 @@ Our goal is to make collaboration productive, respectful, and accessible to all.
 
 
 
-\## Expected Behavior
+## Expected Behavior
 
 
 
@@ -26,23 +26,23 @@ All community members are expected to:
 
 
 
-\- Treat other participants with respect and consideration.
+- Treat other participants with respect and consideration.
 
-\- Communicate politely and constructively.
+- Communicate politely and constructively.
 
-\- Be patient with contributors who have different experience levels.
+- Be patient with contributors who have different experience levels.
 
-\- Accept constructive feedback and differing viewpoints professionally.
+- Accept constructive feedback and differing viewpoints professionally.
 
-\- Focus technical discussions on ideas, implementations, and evidence rather than individuals.
+- Focus technical discussions on ideas, implementations, and evidence rather than individuals.
 
-\- Give credit to the original authors of code, ideas, and resources.
+- Give credit to the original authors of code, ideas, and resources.
 
-\- Respect the privacy and boundaries of other participants.
+- Respect the privacy and boundaries of other participants.
 
 
 
-\## Unacceptable Behavior
+## Unacceptable Behavior
 
 
 
@@ -50,23 +50,23 @@ The following behaviors are not acceptable:
 
 
 
-\- Harassment, intimidation, threats, or personal attacks.
+- Harassment, intimidation, threats, or personal attacks.
 
-\- Discriminatory language or behavior.
+- Discriminatory language or behavior.
 
-\- Insults, trolling, or deliberately disruptive communication.
+- Insults, trolling, or deliberately disruptive communication.
 
-\- Publishing someone's private or personal information without permission.
+- Publishing someone's private or personal information without permission.
 
-\- Unwanted sexual attention or inappropriate conduct.
+- Unwanted sexual attention or inappropriate conduct.
 
-\- Deliberately disrupting discussions, reviews, or collaboration.
+- Deliberately disrupting discussions, reviews, or collaboration.
 
-\- Any other behavior that creates an unsafe or hostile environment.
+- Any other behavior that creates an unsafe or hostile environment.
 
 
 
-\## Scope
+## Scope
 
 
 
@@ -74,17 +74,17 @@ This Code of Conduct applies to all PersonalAI community spaces, including:
 
 
 
-\- GitHub Issues and Pull Requests.
+- GitHub Issues and Pull Requests.
 
-\- Code reviews and repository discussions.
+- Code reviews and repository discussions.
 
-\- Project-related communication and community activities.
+- Project-related communication and community activities.
 
-\- Any situation where an individual is officially representing the PersonalAI project.
+- Any situation where an individual is officially representing the PersonalAI project.
 
 
 
-\## Reporting an Incident
+## Reporting an Incident
 
 
 
@@ -112,7 +112,7 @@ Reports will be reviewed as fairly and confidentially as reasonably possible.
 
 
 
-\## Enforcement Responsibilities
+## Enforcement Responsibilities
 
 
 
@@ -140,7 +140,7 @@ Enforcement decisions should be proportionate, consistent, and focused on mainta
 
 
 
-\## Appeals
+## Appeals
 
 
 
@@ -152,7 +152,7 @@ Appeals will be considered based on the available information and circumstances.
 
 
 
-\## Attribution
+## Attribution
 
 
 
